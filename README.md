@@ -2,9 +2,15 @@
 >
 > "*I have no idea what I’d do in a comparable situation. Perhaps toss a coin*.” - Terry Speed
 
+Motivation for the project:
+- Sharing personal mistakes I made regarding different perspectives of postdoc training
+- Many institutions (even prestigious institution) doesn't have enough supporting resources for postdocs.
+
+
 ## Content
 
 -   [General Advice](#general-advices)
+- [International Postdoc]
 
 ------------------------------------------------------------------------
 
@@ -37,3 +43,5 @@
 ------------------------------------------------------------------------
 
 # Transition to Independent Research
+
+# International Postdoc
